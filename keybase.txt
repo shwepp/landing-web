@@ -4,67 +4,67 @@ https://keybase.io/shweppsie
 
 I hereby claim:
 
-  * I am an admin of http://nathanoverall.me
+  * I am an admin of https://nathanoverall.me
   * I am shweppsie (https://keybase.io/shweppsie) on keybase.
   * I have a public key with fingerprint B9F0 CC09 221D 70FE BA4C  81AA 1814 A18B 421B 22B9
 
 To do so, I am signing this object:
 
 {
-    "body": {
-        "key": {
-            "eldest_kid": "0120e9515429d34993ad3d62a24513ea9bdadb099bf1d9ecada9fa15f994f1e5e9780a",
-            "fingerprint": "b9f0cc09221d70feba4c81aa1814a18b421b22b9",
-            "host": "keybase.io",
-            "key_id": "1814a18b421b22b9",
-            "kid": "01017df441eefd73daafb8a20c01ebc7a693eaeb7967c2be69ac74ade4a40308541c0a",
-            "uid": "42e126c4942a605f3ca19bf90b723119",
-            "username": "shweppsie"
-        },
-        "service": {
-            "hostname": "nathanoverall.me",
-            "protocol": "http:"
-        },
-        "type": "web_service_binding",
-        "version": 1
+  "body": {
+    "key": {
+      "eldest_kid": "0120e9515429d34993ad3d62a24513ea9bdadb099bf1d9ecada9fa15f994f1e5e9780a",
+      "fingerprint": "b9f0cc09221d70feba4c81aa1814a18b421b22b9",
+      "host": "keybase.io",
+      "key_id": "1814a18b421b22b9",
+      "kid": "01017df441eefd73daafb8a20c01ebc7a693eaeb7967c2be69ac74ade4a40308541c0a",
+      "uid": "42e126c4942a605f3ca19bf90b723119",
+      "username": "shweppsie"
     },
-    "ctime": 1486769878,
-    "expire_in": 157680000,
-    "prev": "7af41c7521b6f4ac39577d8b822598dafc903f8dd4464f0b8301a87b2d5a7d57",
-    "seqno": 7,
-    "tag": "signature"
+    "service": {
+      "hostname": "nathanoverall.me",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1698640663,
+  "expire_in": 157680000,
+  "prev": "f7fd77b90e888dce62ca03773e139b723882db144e80198dafd09681dd9f00b3",
+  "seqno": 34,
+  "tag": "signature"
 }
 
 which yields the signature:
 
 -----BEGIN PGP MESSAGE-----
-Version: Keybase OpenPGP v2.0.62
+Version: Keybase OpenPGP v2.1.13
 Comment: https://keybase.io/crypto
 
-yMN1AnicbVJtTBRHGD6sXPmollBCNGBbVwWtF9yZ3b3ZvZSPFhul1LNcrRCqwuzu
-LLfluDvvDjhEjCIxVBJtoQX8QqrhQrQfpIAR2waxBikfraW22IqEVjAVqWm4pqVp
-hO4S/df5MZN553me93nezNUlTxgiQpbFfFjzchzVFTLQc6LYkNNk/bGcEl1yGWUp
-pwrJwkEcMvH68gpVmbJQNIA0ETjAsVCQGVYQGCwzshliyHKAIVgQZSyLtCCICpAF
-ImEZCwoGnCIIrAIIRwTE05gyUYrqLCAet0d1+jRZUVBoSaIFCIGMaIWImJV4gDHg
-AattIguBCKEoaES7y6szNHMi9pIk1aXVtEvegr3/wT/2TQMkKywLCFFkxMgYKyKP
-IS3RgIgSwmZBc09EJJiRBEViFrCEWCwTFrM0Q/McC6QF38ULciwkAJolVmAhNtOc
-wkgYaJEFWkSQAUDvW+wlHicuIhraay8lbrdXJVSFidLKJapE9MnqUR5BnNhnx05X
-CfFghyNJK5kot8flc0kuh/Zq9/ncFp3sK3Pr6FIi5j3SyRNVp6zNUiNoZK/qclIW
-oCEln6oLA5Y3I7PAI95EEb9b9ZA8VUdwyMzT2tLbkBJNEmFFi4g4bXBmhcUSI3AI
-ybzIQ8gJvIwVSaAZhZdlljWzCi3yDA0wj0QocxjJHKL0ZLudLsqCNJu4QI+tFmix
-ij1a7Cs9OxYbQiIMxtBF+h8zRIRHPf55z56NMhx4rq9lv2f0VHtdU/WFM3enhmcm
-D7w/Rc/0iKsOr09PufXwXGzzqULTlS33pva8E2z69vTMyN7vEmxyNgJG2J4b6A6t
-8of7upYWUXPTTMpX55t+tsd2zMGMFhi32pgy+maza3Bkdjo2f42xPi7+wb6q2tIl
-e1tNmS/tLJilV1hrUdTnXxx8rXy4ztgXQzOwM+yjMdPb7K3sG2cCd1MzGFvmouWz
-Sxsb236KdvYGa3OHGnuOjdGTSZFlJ1/d/0pvX8P2Z+a71efbq7MKz6Uc3ZiSLG6b
-oOqfHP993Zr4yfI3cnb/sG64IG16PixyJvW2l9rasAodr7jfVtThPoHYfM822+Af
-mc3zG/qmx7IDiTl11xK42fJ0w/LUUdvcxjtLT97ZY2y0DGcNNW6wthWFvRuovzZQ
-emjli8n/fO9N6q3p/tTv7XBsH+yKhp3dQX/U0cpLn1xqgANn4VprKg/Qx9f30X9f
-zOr3B4LW1qh4WJ/2XsNT9U93Hl98r2Vs18TmLytXnH5rZ+JEpJ+6vLWytPqDxDTb
-lrDW1Y6Gyv7Eb1q/vpxzM9dNoZG/Pks4Au4nHxn694XEjPxla5te/81mErs6uIM7
-dvmCF9tub/KZfvkzzVNXG2ouC0LxQk1M1dXx6Lj17s03+wuNloeZDTX5D64fWrmJ
-GrfaU8OPgfSAZSD217Yb+ecr/gPrLbrx
-=gjYd
+yMN5AnicbVJ7UBVVHL5XHhqNkckMmMHAMj0Egj27e3f30AgpMVQOFOFIhAhnd8/C
+xnXv5d7LO8VQUV7qhDgmPnrgiEbEwyKEnHhURA3yUiGmUSyT8Q5hgqUm0C6j/3X+
+OGfO73zfd77vd07PcheDh9HH6+Py9auJNuNPnceyDTiS9i4kBIuUT4QXEpl4ccFm
+CdsdqZmKRIQTJKBIDE3AxFBQohkIaSTREkshijEBGiMoSEgSSAgFGUgQi0hCUEbA
+JEPIyACbMOR4EhEhhKyo6dhmtSmqQ5MVoEyKIgkpCkgcKWMBMSIPEAI8YLRJYCgg
+UJQANWKGxa4zNHMCsuNQxaLVtE3qor3/wT/yTQJOkhkGYCxLHC0hJAs8okiRBFgQ
+OcRCzT0WOMhyIiVgFiKRY5CEGcSQNMmbGCAu+s5elGMoDChWZCBDIZY0ybSIgBYZ
+kgJH0QDo92bbsU1FW7GGtmfkYqvVrmBiWwihlXMUEeud1aM8hKjIkYFUSw62IbM5
+VCuFEFabxWERLWbtNMPhsNrDdbYj36rDc7GQ+lAoVVBUSWumxtDYdsWiEuFAQ4oO
+RVcGLORZhmRZOoTAeVbFhlMVHWHiWJ7Uhn4PztEkZU7rCydAEvM8L4mYpURE0hxH
+Y0BDPRbPU5IAGAbzJIC8hGSJhCwPJEl7O1KgCT1almohwmlG84nS9eBKuhYs26YF
+7+rc7Gowehjc3Zbov8zg8diTj/7eHw88F+Jmgmej2UPWpydGv7yHgs+GPT6blEU5
+L5wpAd7sePXywx5RuX+fUx0vvlnkNhYZ+e+tfzzXB2VcKTnsM0k735XrAv3GWwby
+wnouN39V2ONm8VXmhuafiI6oSekYnrgdMbdlT9uIK4g7mtw3F7RrU8y5mYTYDvm6
+T6lvlZdb8ulJl4WB86/51F+1T1ZuL3yuZkeL2eWHhdjrxqEXqlYcmA5zZfLbi/Yv
+ndnebnzW+qAq6dP4737p75Tc9jonGlaXHPeaLusK7R5ML2tSfz27Y3eg2n9j7ctN
+7w0a5s5PbUiI3vnONflg/dTWFY27/uw9vjHA8GPX7M6TlfsHR/z6QO3bzrHh3IWL
+ib+5zIyWtZ+pvtPKtiZcTPw6fs3zI6I6VGGOcv/Ai9i0KqCtOaFv3v/eGw1HLifd
+2lOpZnUXBEVtrGLWvW6+1vDJZ87fx0TPG2OFzVx3SuS+K52T7cYm8Pm8/1/FyfaO
+2mequClLzbLA05ccQ6UdF0yvrpuOLDjq7+Xa3xHXuq/62O23XmlZVq58dDcPbT6R
+dLOgvPfbbJfEm9/AE13OmJMDTw2n+dWNruTqNpx6aaVBOBhnOVXcHRoTEQBWfR/v
+/X6n74H7pR9GXaq4EtybNVc8drfat7G2eE3XOG7MTL6/7aqUMlcSm1ZxaEu7cffP
+9UeqliwtGE2bdg9gv5hYmz3icse/yO8/xlTLbA==
+=QClm
 -----END PGP MESSAGE-----
 
 And finally, I am proving ownership of this host by posting or
@@ -73,4 +73,3 @@ appending to this document.
 View my publicly-auditable identity here: https://keybase.io/shweppsie
 
 ==================================================================
-
