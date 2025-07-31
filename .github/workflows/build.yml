@@ -6,7 +6,9 @@ on:
 
 jobs:
   build:
-    runs-on: [self-hosted, sal]
+    runs-on:
+      labels: [self-hosted, sal]
+      group: Default
     steps:
     - uses: actions/checkout@v4
     - name: Build the Docker image
