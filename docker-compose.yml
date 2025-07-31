@@ -1,0 +1,26 @@
+version: '2.2'
+
+services:
+  landing-web:
+    image: nginx:latest
+    expose:
+      - "80"
+    restart: unless-stopped
+    environment:
+      TZ: "Pacific/Auckland"
+    labels:
+      - "traefik.enable=true"
+      - "traefik.http.routers.landing-web.rule=HostRegexp(`{host:^(www\\.)?(shweppsie\\.com|nathanoverall\\.me)$}`)"
+      - "traefik.http.routers.landing-web.entrypoints=web-secure"
+      - "traefik.http.routers.landing-web.tls.certresolver=resolver"
+      - "traefik.http.routers.landing-web.tls=true"
+      - "traefik.http.routers.landing-web.priority=1" # don't override other rules
+    volumes:
+      - "/usr/local/src/landing-web/:/usr/share/nginx/html:ro"
+    networks:
+      main:
+
+networks:
+  main:
+    name: main
+    external: true
