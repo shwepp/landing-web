@@ -1,3 +1,3 @@
 FROM nginx:latest
 
-COPY fry.png ga.js index.html /usr/share/nginx/html/
+COPY index.html favicon.ico favicon.png me.webp /usr/share/nginx/html/
