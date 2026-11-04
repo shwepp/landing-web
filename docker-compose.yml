@@ -1,6 +1,6 @@
 services:
   landing-web:
-    image: nginx:latest
+    image: nginx:1.30
     expose:
       - "80"
     restart: unless-stopped
